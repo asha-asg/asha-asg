@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi 👋, I'm Asha!
 
-<!--
-**asha-asg/asha-asg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Engineer | Python Developer | Data Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 About Me
+
+- 🎓 BE Computer Science and Engineering Graduate.
+- 🐍 Interested in Python Development and Data Analytics.
+- 📊 Completed Data Analyst Training.
+- 🌱 Always eager to learn new technologies.
+- 🚀 Passionate about building real-world projects.
+
+🛠️ Technical Skills
+
+- Programming: Python
+- Database: SQL
+- Libraries: Pandas, NumPy, Matplotlib
+- Concepts: OOP, Data Structures
+
+🚀 My Projects
+
+1. Smart Vote Lite
+
+Blockchain-based Voting System with AI Anomaly Detection.
+
+2. Naan Mudhalvan
+
+My learning and development repository.
+
+🎯 Career Goal
+
+Looking for opportunities to start my career as a Python Developer or Data Analyst and contribute to real-world projects.
+
+🤝 Connect With Me
+
+- GitHub: "@asha-asg" (https://github.com/asha-asg)
+
+⭐ Thank you for visiting my profile!
